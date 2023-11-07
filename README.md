@@ -1,7 +1,9 @@
 # CANSSI-FrenchTrot
 Welcome to Cynthia &amp; Juliette's submission to the CANSSI French Trot Horse Racing Forecasting Competition
 
-List of files:
+&nbsp;
+
+**List of files**:
 - explanatory_notebook.ipynb is our explanatory notebook, summarizing our process and explaining our engineered features.
 - predictions.csv contains the winprobability variable for the 3-month holdout test period, along with the predicted class label and ground truth (WIN=1 or 0).
 - Final-Model.ipynb is the notebook to run to obtain the predictions.csv result.
